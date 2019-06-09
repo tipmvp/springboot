@@ -25,4 +25,5 @@ public class User implements Serializable {
     private String workPicPath; //工作照路径
     private String wee;
     private String wede;
+    private String wedrsrge;
 }
