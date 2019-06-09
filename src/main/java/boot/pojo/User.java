@@ -23,9 +23,6 @@ public class User implements Serializable {
     private String userRoleName;    //用户角色名称
     private String idPicPath; //证件照路径
     private String workPicPath; //工作照路径
-    private String wofr;
-    private String ddf;
-    private String ddfgfgfk;
 
 
 }
